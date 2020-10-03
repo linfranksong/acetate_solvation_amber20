@@ -1,0 +1,5 @@
+parm step2.prmtop
+loadRestrt step2.inpcrd
+setOverwrite True
+strip :2-6948
+outparm step2_final.prmtop step2_final.inpcrd
