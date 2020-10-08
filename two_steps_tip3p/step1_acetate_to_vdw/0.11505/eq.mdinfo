@@ -1,25 +1,25 @@
 
- NSTEP =   436000   TIME(PS) =    1072.000  TEMP(K) =   297.21  PRESS =    95.8
- Etot   =    -54102.1155  EKtot   =     12314.4896  EPtot      =    -66416.6051
- BOND   =         0.2063  ANGLE   =         6.3940  DIHED      =         5.1991
- 1-4 NB =         0.5214  1-4 EEL =         9.3200  VDWAALS    =     10109.0164
- EELEC  =    -76547.2623  EHBOND  =         0.0000  RESTRAINT  =         0.0000
- EKCMT  =      6151.0742  VIRIAL  =      5712.9060  VOLUME     =    211759.6081
-                                                    Density    =         0.9819
- DV/DL  =       148.5624
+ NSTEP =   983000   TIME(PS) =    1183.000  TEMP(K) =   299.29  PRESS =   -60.0
+ Etot   =    -48600.9067  EKtot   =     18599.2250  EPtot      =    -67200.1317
+ BOND   =     13233.6618  ANGLE   =         5.3263  DIHED      =         5.2105
+ 1-4 NB =         0.2591  1-4 EEL =         9.1677  VDWAALS    =     14303.0731
+ EELEC  =    -94756.8303  EHBOND  =         0.0000  RESTRAINT  =         0.0000
+ EKCMT  =      6227.4440  VIRIAL  =      6490.3555  VOLUME     =    202886.2188
+                                                    Density    =         1.0249
+ DV/DL  =       160.5293
  ------------------------------------------------------------------------------
 | Current Timing Info
 | -------------------
-| Total steps:    500000 | Completed:    436000 ( 87.2%) | Remaining:     64000
+| Total steps:   1000000 | Completed:    983000 ( 98.3%) | Remaining:     17000
 |
-| Average timings for last   87000 steps:
-|     Elapsed(s) =      59.85 Per Step(ms) =       0.69
-|         ns/day =     251.18   seconds/ns =     343.97
+| Average timings for last   20000 steps:
+|     Elapsed(s) =      61.61 Per Step(ms) =       3.08
+|         ns/day =      28.05   seconds/ns =    3080.60
 |
 | Average timings for all steps:
-|     Elapsed(s) =     300.01 Per Step(ms) =       0.69
-|         ns/day =     251.12   seconds/ns =     344.05
+|     Elapsed(s) =    3064.17 Per Step(ms) =       3.12
+|         ns/day =      27.72   seconds/ns =    3117.17
 |
 |
-| Estimated time remaining:      44.0 seconds.
+| Estimated time remaining:      53.0 seconds.
  ------------------------------------------------------------------------------

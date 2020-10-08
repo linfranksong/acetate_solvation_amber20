@@ -1,25 +1,25 @@
 
- NSTEP =   487000   TIME(PS) =    1174.000  TEMP(K) =   296.91  PRESS =  -144.3
- Etot   =    -54114.0501  EKtot   =     12301.9533  EPtot      =    -66416.0033
- BOND   =         0.3791  ANGLE   =         6.8590  DIHED      =         5.2691
- 1-4 NB =         0.9610  1-4 EEL =         0.5158  VDWAALS    =      9848.0387
- EELEC  =    -76278.0260  EHBOND  =         0.0000  RESTRAINT  =         0.0000
- EKCMT  =      6175.4501  VIRIAL  =      6834.4925  VOLUME     =    211519.4699
-                                                    Density    =         0.9830
- DV/DL  =         6.0894
+ NSTEP =   981000   TIME(PS) =    1181.000  TEMP(K) =   303.18  PRESS =   -88.8
+ Etot   =    -48288.3660  EKtot   =     18840.8506  EPtot      =    -67129.2166
+ BOND   =     13025.8764  ANGLE   =         5.7312  DIHED      =         5.3393
+ 1-4 NB =         0.6414  1-4 EEL =         0.5184  VDWAALS    =     14170.2694
+ EELEC  =    -94337.5927  EHBOND  =         0.0000  RESTRAINT  =         0.0000
+ EKCMT  =      6276.6966  VIRIAL  =      6665.8281  VOLUME     =    202899.1046
+                                                    Density    =         1.0248
+ DV/DL  =        10.5444
  ------------------------------------------------------------------------------
 | Current Timing Info
 | -------------------
-| Total steps:    500000 | Completed:    487000 ( 97.4%) | Remaining:     13000
+| Total steps:   1000000 | Completed:    981000 ( 98.1%) | Remaining:     19000
 |
-| Average timings for last   81000 steps:
-|     Elapsed(s) =      60.10 Per Step(ms) =       0.74
-|         ns/day =     232.91   seconds/ns =     370.97
+| Average timings for last   20000 steps:
+|     Elapsed(s) =      61.10 Per Step(ms) =       3.05
+|         ns/day =      28.28   seconds/ns =    3054.91
 |
 | Average timings for all steps:
-|     Elapsed(s) =     361.17 Per Step(ms) =       0.74
-|         ns/day =     233.00   seconds/ns =     370.81
+|     Elapsed(s) =    3008.26 Per Step(ms) =       3.07
+|         ns/day =      28.18   seconds/ns =    3066.53
 |
 |
-| Estimated time remaining:       9.6 seconds.
+| Estimated time remaining:      58.3 seconds.
  ------------------------------------------------------------------------------

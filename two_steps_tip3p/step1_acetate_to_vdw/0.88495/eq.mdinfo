@@ -1,25 +1,25 @@
 
- NSTEP =   435000   TIME(PS) =    1070.000  TEMP(K) =   301.90  PRESS =   110.9
- Etot   =    -53815.4481  EKtot   =     12508.5451  EPtot      =    -66323.9931
- BOND   =         0.2569  ANGLE   =         3.9910  DIHED      =         5.2192
- 1-4 NB =         0.3964  1-4 EEL =         1.2132  VDWAALS    =     10011.3651
- EELEC  =    -76346.4349  EHBOND  =         0.0000  RESTRAINT  =         0.0000
- EKCMT  =      6329.0391  VIRIAL  =      5821.9200  VOLUME     =    211748.4378
-                                                    Density    =         0.9820
- DV/DL  =        24.4672
+ NSTEP =   988000   TIME(PS) =    1188.000  TEMP(K) =   301.28  PRESS =  -188.2
+ Etot   =    -48362.8506  EKtot   =     18722.3534  EPtot      =    -67085.2040
+ BOND   =     13200.9820  ANGLE   =         7.0559  DIHED      =         5.2287
+ 1-4 NB =         0.3831  1-4 EEL =         1.2194  VDWAALS    =     14067.7977
+ EELEC  =    -94367.8708  EHBOND  =         0.0000  RESTRAINT  =         0.0000
+ EKCMT  =      6310.6821  VIRIAL  =      7135.8353  VOLUME     =    203012.3302
+                                                    Density    =         1.0242
+ DV/DL  =        23.5171
  ------------------------------------------------------------------------------
 | Current Timing Info
 | -------------------
-| Total steps:    500000 | Completed:    435000 ( 87.0%) | Remaining:     65000
+| Total steps:   1000000 | Completed:    988000 ( 98.8%) | Remaining:     12000
 |
-| Average timings for last   87000 steps:
-|     Elapsed(s) =      59.91 Per Step(ms) =       0.69
-|         ns/day =     250.95   seconds/ns =     344.30
+| Average timings for last   21000 steps:
+|     Elapsed(s) =      61.68 Per Step(ms) =       2.94
+|         ns/day =      29.41   seconds/ns =    2937.37
 |
 | Average timings for all steps:
-|     Elapsed(s) =     299.81 Per Step(ms) =       0.69
-|         ns/day =     250.72   seconds/ns =     344.61
+|     Elapsed(s) =    2902.73 Per Step(ms) =       2.94
+|         ns/day =      29.41   seconds/ns =    2937.99
 |
 |
-| Estimated time remaining:      44.8 seconds.
+| Estimated time remaining:      35.3 seconds.
  ------------------------------------------------------------------------------

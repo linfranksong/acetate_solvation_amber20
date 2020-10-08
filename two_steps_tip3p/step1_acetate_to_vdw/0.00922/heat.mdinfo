@@ -1,25 +1,20 @@
 
- NSTEP =    90000   TIME(PS) =     180.000  TEMP(K) =   298.46  PRESS =     0.0
- Etot   =    -53035.4856  EKtot   =     12365.9452  EPtot      =    -65401.4308
- BOND   =         0.6891  ANGLE   =         5.6276  DIHED      =         5.2453
- 1-4 NB =         0.4289  1-4 EEL =        10.4496  VDWAALS    =      9585.6896
- EELEC  =    -75009.5609  EHBOND  =         0.0000  RESTRAINT  =         0.0000
- DV/DL  =       160.2785
+ NSTEP =   200000   TIME(PS) =     200.000  TEMP(K) =   299.20  PRESS =     0.0
+ Etot   =    -47374.8524  EKtot   =     18593.5179  EPtot      =    -65968.3703
+ BOND   =     12812.2962  ANGLE   =         6.9683  DIHED      =         5.3977
+ 1-4 NB =         0.1780  1-4 EEL =        10.2586  VDWAALS    =     13759.4971
+ EELEC  =    -92562.9662  EHBOND  =         0.0000  RESTRAINT  =         0.0000
+ DV/DL  =       184.1859
  NMR restraints: Bond =    0.000   Angle =     0.000   Torsion =     0.000
 ===============================================================================
- ------------------------------------------------------------------------------
-| Current Timing Info
-| -------------------
-| Total steps:    100000 | Completed:     90000 ( 90.0%) | Remaining:     10000
+
+|  Final Performance Info:
+|     -----------------------------------------------------
+|     Average timings for last   25000 steps:
+|     Elapsed(s) =      61.44 Per Step(ms) =       2.46
+|         ns/day =      35.16   seconds/ns =    2457.49
 |
-| Average timings for last   30000 steps:
-|     Elapsed(s) =      70.92 Per Step(ms) =       2.36
-|         ns/day =      73.10   seconds/ns =    1182.01
-|
-| Average timings for all steps:
-|     Elapsed(s) =     209.92 Per Step(ms) =       2.33
-|         ns/day =      74.09   seconds/ns =    1166.21
-|
-|
-| Estimated time remaining:      23.3 seconds.
- ------------------------------------------------------------------------------
+|     Average timings for all steps:
+|     Elapsed(s) =     485.75 Per Step(ms) =       2.43
+|         ns/day =      35.57   seconds/ns =    2428.73
+|     -----------------------------------------------------
